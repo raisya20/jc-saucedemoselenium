@@ -16,5 +16,6 @@ This repository contains automated test cases for the SauceDemo e-commerce web a
 
 ## Video Demonstration
 Watch the running automation on YouTube: [YouTube Video](https://youtu.be/N8Ipy94RMfc?si=BYpNxDnxUt7Vc59l)
+Test Case for Saucedemo on Google Spreadsheets : [TestCase_Saucedemo](https://docs.google.com/spreadsheets/d/1Yibl_7FgoWAe0E_scjkTyTt1KXzSfMKLS25UL9ZB6fs/edit?usp=sharing)
 
 
